@@ -1,6 +1,6 @@
 # Demo `tools.go`
 
-Repo shows how to use `tools.go` for managing Go CLI tools on repo/project.
+Repo demonstrates how to use `tools.go` for managing Go CLI tools on repo/project level.
 
 Key artifacts to check:
 
