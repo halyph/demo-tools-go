@@ -7,3 +7,4 @@ Key artifacts to check:
 - `Makefile`
 - `tools` folder
 - `.bin` folder (generate by `make`)
+- `pkg/magic/magic.go` - see `go:generate` comment
