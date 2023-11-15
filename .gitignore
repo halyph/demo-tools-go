@@ -19,3 +19,8 @@
 
 # Go workspace file
 go.work
+
+build/
+
+# Go CLI tools, see /tools/tools.go
+.bin/
