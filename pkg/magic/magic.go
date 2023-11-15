@@ -1,7 +1,7 @@
 package magic
 
 //go:generate mockery --exported --all --dir ./ --case=snake --outpkg=mocks
-type IFoo interface {
+type MyFoo interface {
 	Process(input int) int
 }
 
