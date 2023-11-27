@@ -8,3 +8,5 @@ Key artifacts to check:
 - `tools/` folder
 - `.bin/` folder (generate by `make`)
 - `pkg/magic/magic.go` - see `go:generate` comment
+
+Please check my blog post [Manage Go CLI tools via Go modules and tools.go](https://github.com/halyph/mind-flow/blob/master/docs/blog/2023/2023-11-27-tools-go.md) that contains much more details.
