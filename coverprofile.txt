@@ -1,2 +1,0 @@
-mode: atomic
-example.com/pkg/magic/magic.go:11.35,13.2 1 1
